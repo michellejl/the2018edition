@@ -1,0 +1,9 @@
+.about {
+  background: $white;
+  box-shadow: 10px 10px 15px rgba(0,0,0,0.5);
+  color: $black;
+  padding: 5px;
+  .hero {
+    display: none;
+  }
+}

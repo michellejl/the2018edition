@@ -11,7 +11,11 @@
 
 .main {
   min-height: 80vh;
-  padding: 10px;
+  margin: 25px;
+  p {
+    max-width: 750px;
+    margin: 25px auto;
+  }
 }
 
 body {
@@ -37,4 +41,23 @@ svg.icon {
 
 @import "partials/header";
 @import "partials/footer";
+@import "partials/about";
 
+.p-fancy {
+  position: relative;
+  z-index: 2;
+  padding: 3em 0 1em 4.5em;
+  max-width:500px;
+  margin: 15px auto;
+  &::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: 0px;
+    left: 15px;
+    width: 100px;
+    height: 100px;
+    border: solid 3px lighten($black, 50%);
+    clip-path: polygon(0 0, 0 110px, 40px 110px, 40px 40px, 110px 40px, 110px 0);
+  }
+}
