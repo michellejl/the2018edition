@@ -1,3 +1,89 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css);
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700|Josefin+Slab:400,700");
+.site-header, .site-header .site-nav-items, .site-footer .site-footer-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center; }
 
+.site-header .site-nav-items, .site-footer .site-footer-items {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; }
+
+* {
+  box-sizing: border-box; }
+
+.main {
+  min-height: 80vh; }
+
+body {
+  background-image: url("/imgs/papers.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Josefin Sans", sans-serif;
+  color: #f2f0ec;
+  min-height: 100vh;
+  min-width: 100vw; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Josefin Slab", serif; }
+
+svg.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor; }
+
+.site-header {
+  background: #2d2d2d;
+  text-align: center;
+  min-height: 10vh; }
+  .site-header .site-title {
+    flex-basis: 100%;
+    font-weight: 300; }
+  .site-header .site-nav {
+    flex-basis: 100%; }
+  .site-header .site-nav-items li {
+    flex: 1;
+    padding: 0 0 5px;
+    border-width: 0 0 5px 0;
+    border-style: solid;
+    transition-duration: 0.5s; }
+    .site-header .site-nav-items li:nth-of-type(1) {
+      border-color: #66cccc; }
+    .site-header .site-nav-items li:nth-of-type(2) {
+      border-color: #99cc99; }
+    .site-header .site-nav-items li:nth-of-type(3) {
+      border-color: #ffcc66; }
+    .site-header .site-nav-items li:nth-of-type(4) {
+      border-color: #f99157; }
+    .site-header .site-nav-items li:nth-of-type(5) {
+      border-color: #f2777a; }
+    .site-header .site-nav-items li:hover {
+      transition-duration: 0.5s;
+      border-bottom-width: 10px;
+      padding-bottom: 0; }
+    .site-header .site-nav-items li a {
+      display: block;
+      width: 100%; }
+  .site-header a {
+    color: #f2f0ec;
+    text-decoration: none; }
+
+.site-footer {
+  background: #2d2d2d;
+  text-align: center;
+  padding: 25px 0;
+  min-height: 10vh; }
+  .site-footer .site-footer-items {
+    justify-content: center; }
+    .site-footer .site-footer-items li {
+      padding: 10px; }
+      .site-footer .site-footer-items li a {
+        color: #f2f0ec;
+        text-decoration: none; }
 
 /*# sourceMappingURL=styles.css.map */

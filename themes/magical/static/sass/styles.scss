@@ -1,0 +1,39 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css);
+
+@import "variables-colors";
+@import "variables-typo";
+@import "extends";
+@import "mixins";
+
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  min-height: 80vh;
+}
+
+body {
+  @include bgimg('/imgs/papers.jpg');
+  font-family: $sans;
+  color: $white;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $serif;
+}
+
+svg.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+@import "partials/header";
+@import "partials/footer";
+

@@ -1,4 +1,86 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "base16"
+title = "Michelle JL"
+theme = "magical"
+author = "Michelle J Levine"
+
+# Code coloring
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+
+# Copyright notice. This is displayed in the footer.
+copyright = "&copy; Copyright 2018 Michelle J Levine"
+
+[params]
+  # Date format
+  dateFormat = "January 2, 2006"
+
+[params.author]
+  name = "Michelle J Levine"
+
+  # Gravatar or Abatar image
+  gravatar = "michelle@michellejl.com"
+
+  twitter = "michellejlevine"
+  instagram = "spacecadetmj"
+  linkedin = "michellejl"
+  github = "michellejl"
+  codepen = "michellejl"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
+[[menu.main]]
+  name = "Coding"
+  weight = 2
+  identifier = "coding"
+  url = "/coding/"
+[[menu.main]]
+  name = "Teaching"
+  weight = 3
+  identifier = "teaching"
+  url = "/teaching/"
+[[menu.main]]
+  name = "Writing"
+  weight = 4
+  identifier = "writing"
+  url = "/writing/"
+[[menu.main]]
+  name = "Resources"
+  weight = 5
+  identifier = "resources"
+  url = "/resources/"
+
+[[menu.footer]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
+[[menu.footer]]
+  name = "Coding"
+  weight = 2
+  identifier = "coding"
+  url = "/coding/"
+[[menu.footer]]
+  name = "Teaching"
+  weight = 3
+  identifier = "teaching"
+  url = "/teaching/"
+[[menu.footer]]
+  name = "Writing"
+  weight = 4
+  identifier = "writing"
+  url = "/writing/"
+[[menu.footer]]
+  name = "Resources"
+  weight = 5
+  identifier = "resources"
+  url = "/resources/"

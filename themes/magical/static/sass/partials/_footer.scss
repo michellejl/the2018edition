@@ -1,0 +1,18 @@
+.site-footer {
+  background: $black;
+  text-align: center;
+  padding: 25px 0;
+  min-height: 10vh;
+  .site-footer-items {
+    @extend %flex-container;
+    justify-content: center;
+    @extend %horizontal-list;
+    li {
+      padding: 10px;
+      a {
+        color: $white;
+        text-decoration: none;
+      }
+    }
+  }
+}
