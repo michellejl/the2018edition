@@ -5,5 +5,5 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Thoughts
-I've created way too many versions of my portfolio since I bought my first url in 2011, and none of them have lived more than maybe 8 months top. I've spent pretty much all of January thinking about what went wrong with all the past attempts. I spent time poking at different options before landing here.
+I've created way too many versions of my portfolio since I bought my first url in 2011, and none of them have lived more than maybe 8 months top. I've spent pretty much all of January thinking about what went wrong with all the past attempts. I spent time poking at different options before landing here. I spent a lot of January writing and then throwing out code as I tried out different things and decided they didn't work the way I wanted.
 
