@@ -18,10 +18,5 @@ I started getting involved in attening meetups and meeting my coding community i
 
 
 
-
-
-
-
-
 <!-- I’m Michelle, a creative front end developer. I organize meetups for [@PDXNode](https://twitter.com/pdxnode) and volunteer with  [@WWCodePortland](https://twitter.com/wwcodeportland) as the co-lead of open source study nights. Currently, I am focused on creating several workshops on various CSS topics, using git/github, and some intro to Node.js. -->
 

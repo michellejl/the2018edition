@@ -14,24 +14,26 @@
     @extend %flex-container;
     @extend %horizontal-list;
     li {
-      flex: 1;
-      padding: 0 0 5px;
+      font-size: 0.8em;
+      flex: 1 0;
+      padding: 0 2.5px 5px;
       border-width: 0 0 5px 0;
       border-style: solid;
-      transition-duration: 0.5s;
       &:nth-of-type(1) { border-color: $lightblue; }
       &:nth-of-type(2) { border-color: $green; }
       &:nth-of-type(3) { border-color: $yellow; }
       &:nth-of-type(4) { border-color: $orange; }
       &:nth-of-type(5) { border-color: $red; }
       &:hover {
-        transition-duration: 0.5s;
         border-bottom-width: 10px;
         padding-bottom: 0;
       }
       a {
         display: block;
         width: 100%;
+      }
+      @media screen and (min-width: 500px) {
+        font-size: 1em;
       }
     }
   }
