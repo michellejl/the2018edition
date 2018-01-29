@@ -1,5 +1,11 @@
  {{ define "main" }} 
- <p>LIST</p>
+ <article class="article main">
+  {{ .Content }}
+  </article>
+
+
+<!-- 
+
  {{- if eq .Kind "taxonomy" }}
 <div class="breadcrumb">
   <a href="{{ " / " | relURL }}{{ .Data.Plural | urlize }}/">{{ .Data.Plural | humanize }}</a> / {{ .Data.Term | humanize }}
@@ -58,6 +64,6 @@
     {{- end }}
   </section>
   {{ template "_internal/pagination.html" . }}
-</div>
+</div> -->
 
 {{ end }}

@@ -1,8 +1,12 @@
-# Michelle's Portfolio: 2018 Edition
++++
+title = "Howdy"
+date = "2018-01-27"
+type = "index"
++++
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My #goal for 2018 is going to be to keep the same portfolio site for a  whole year without any major stack changes or complete redesigns. 
-#impossible #FrontEndDev #goalsfor2018 #NewYearResolutions</p>&mdash; Michelle Levine 🚀 (@MichelleJLevine) <a href="https://twitter.com/MichelleJLevine/status/946519473942511618?ref_src=twsrc%5Etfw">December 28, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# Hi. My name is Michelle 
+
+Welcome to version 0.0.1 of my 2018 portfolio.
 
 ## Thoughts
 I've created way too many versions of my portfolio since I bought my first url in 2011, and none of them have lived more than maybe 8 months top. I've spent pretty much all of January thinking about what went wrong with all the past attempts. I spent time poking at different options before landing here. I spent a lot of January writing and then throwing out code as I tried out different things and decided they didn't work the way I wanted.
@@ -13,10 +17,23 @@ Currently this is built using Hugo and lots of manualness. I am finding that a l
 
 Once I settled on using a static site generator, Hugo found it's way to the top spot mostly because it doesn't default to a blog setting like many of the other static site generators. Hugo gives more flexibility in how you want to build the site. That same flexibility that drew me to Hugo has been making development slower. 
 
-# Build / Deployment Notes
-Running project locally for localdev:
-```
- hugo server --watch --verbose --disableFastRender
-```
+<hr />
+# Versions
 
-Build out static files for uploading:
+## Major Version: 0
+This phase is mostly full of poking things to see what works and getting used to using Hugo for site development. 
+
+### 0.0.1
+
+Barely functional early draft. Site has basic mostly static pages. Some level of design has been implemented, and empty placeholder pages exist.  
+
+## (Future) Major Version: 1
+Version 1 will be reached when I have all pages/content transfered over from old portfolio. 
+
+**Pages:** Home, about, code (portfolio list), writing (blog list), teaching (speaking/workshop list), resources (list of tutorials/sites/tools I find helpful)
+
+## (Future) Major Version 2
+Main functionality required for version 2: automation of the deployment process. Continue building out pages and adding content.
+
+## (Future) Major Version 3
+Main functionality required for version 3: Get a CMS type system set up for adding content easily.
