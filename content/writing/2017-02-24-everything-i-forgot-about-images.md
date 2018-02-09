@@ -2,8 +2,8 @@
 title: "Everything I Forgot About Images"
 date: 2017-02-24T11:45:30-08:00
 Description: "I went to a great talk this week where the speaker, Jessica Tate, reminded me about a lot of best practices for using image on the web that I seem to have forgotten about as of late."
-Tags: []
-Categories: []
+Tags: [Meetup, Speaker, Photography]
+Categories: [Article]
 featuredImg: "/imgs/images-for-web.jpg"
 ---
 

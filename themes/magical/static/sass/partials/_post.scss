@@ -1,0 +1,16 @@
+.meta {
+    .meta-category {
+        &:not(:last-child)::after {
+            content: ', ';
+        }
+    }
+}
+.prev-next-nav {
+    border-top: 1px solid $lightgray;
+    margin: 10px 0;
+    padding: 10px 0;
+    @extend %flex-container;
+    a {
+        max-width: 50%;
+    }
+}

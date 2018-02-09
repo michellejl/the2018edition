@@ -2,8 +2,8 @@
 title: "Write/Speak/Code Wrap Up"
 date: 2017-08-26T13:47:57-08:00
 Description: "Summary of my experiences on the first day of the Write/Speak/Code conference."
-Tags: []
-Categories: []
+Tags: [Conference, Event Review]
+Categories: [Article]
 featuredImg: "/imgs/wsc.png"
 ---
 

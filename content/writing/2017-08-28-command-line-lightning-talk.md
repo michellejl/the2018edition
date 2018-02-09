@@ -2,8 +2,8 @@
 title: "Command Line Lightning Talk"
 date: 2017-08-28T14:01:55-08:00
 Description: "Last Week at Write/Speak/Code I wrote a lightning talk about Command Line Tricks in which I promised a follow up blog article going into more detail about setting up the customizations I talked about. Here it is."
-Tags: []
-Categories: []
+Tags: [Command Line, Talk, How To]
+Categories: [Article, Talk Information]
 featuredImg: "/imgs/dragon-friend.png"
 ---
 
@@ -33,7 +33,7 @@ My github repo: [Some Configuration Files](https://github.com/michellejl/Some_Co
 
 ## Tip 1: Set a Friendly Creature Greeting
 
-![Dragon ASCII art greeting when I open the terminal]({{site.baseurl}}/assets/images/dragon-friend.png){: .support-image}
+![Dragon ASCII art greeting when I open the terminal](/imgs/dragon-friend.png)
 
 This was one of my earlier customizations. The idea was that the command line is kind of a scary place when you are just getting started and I wanted it to say "hi". I looked into ways of running a script or command automatically at startup and found that was super easy. All you need to do is add a quick line with the command into your .zshrc file (or whichever file you use for your shell customization).
 
@@ -42,12 +42,12 @@ Originally I had a simple line that just used the built in "echo" command to sim
 #### Cowsay
 
 * **Installation:** (Using Homebrew)
-```shell
+```
 $ brew install cowsay
 ```
 
 * List all available creatures you can use besides standard cow
-```shell
+```
 $ cowsay -l
 ```
 
@@ -58,7 +58,7 @@ In the process of finding the cowsay program, I also came across a few other nif
 #### Lolcat
 
 * **Installation:** (Ruby Gem)
-```shell
+```
 $ gem install lolcat
 ```
 
@@ -69,8 +69,8 @@ $ gem install lolcat
 I use cowsay and lolcat together to generate my magical dragon friend that greets me when I open the terminal. I like to imagine that he is with me on all my terminal journeys to help me as needed.
 
 Code I use to make this actually happen:
-```shell
-cowsay -f dragon "Greetings, Human!" | lolcat
+```
+$ cowsay -f dragon "Greetings, Human!" | lolcat
 ```
 This snippet lives in my .zshrc file. It will slightly slow down the time it takes for your terminal to open. Make sure to restart your terminal after installing these programs and adding your greeting to the profile file to make it work!
 
@@ -89,25 +89,25 @@ The command line is intimidating and frustrating already. Typos just make things
 
 #### sl
 
-![Example of the sl command]({{site.baseurl}}/assets/images/sl.gif){: .support-image}
+![Example of the sl command](/imgs/sl.gif)
 
 One of the most common commands I use on the command line is 'ls' which is used to list out all the folders and files at a specific location. Because I use this command so often, I often type it wrong.
 
 * This program generates an ASCII art steam locomotor.
 * **Installation:** (With Homebrew)
-```shell
-brew install sl
+```
+$ brew install sl
 ```
 
 #### gti
 
-![Example of the gti command]({{site.baseurl}}/assets/images/gti.gif){: .support-image}
+![Example of the gti command](/imgs/gti.gif)
 
 Another command I use all the time is all the 'git' commands. Similar to the 'sl' program, 'gti' creates an ASCII vehical (GTI Car) that zooms across the screen.
 
 * **Installation:** (With Homebrew)
-```shell
-brew install gti
+```
+$ brew install gti
 ```
 
 
@@ -119,11 +119,11 @@ This one is amazing because it works for basically every typo I have ever made o
 
 I get so annoyed by the default response! It often even asks you if you meant the thing you actually meant. But you then have to either retype the thing, use the up arrow and then arrow through to the place you need to fix the typo. It is annoying and takes time.
 
-![Example of the default typo response]({{site.baseurl}}/assets/images/typo.png){: .support-image}
+![Example of the default typo response](/imgs/typo.png)
 
 TheFuck makes this all better because it allows me to type the response I probably want to say anyways. "fuck"!
 
-![Example of thefuck responses]({{site.baseurl}}/assets/images/typo.gif){: .support-image}
+![Example of thefuck responses](/imgs/typo.gif)
 
 ## Final Bonus Tip
 
@@ -132,12 +132,12 @@ This is probably the least useful, but I just really enjoy it. It is a nice thin
 ##### ASCIIQuarium
 
 * You can install it with
-```shell
+```
 $ brew install asciiquarium
 ```
 * I have mine set up with an alias, so I just get to say 'fishies' and I get fish!
 * More Info: [site](http://www.robobunny.com/projects/asciiquarium/html/) **NOTE:** Don't listen to that site on how to install it on mac. You can just homebrew it!
 
-![Example of ASCIIQuarium]({{site.baseurl}}/assets/images/fishies.gif){: .support-image}
+![Example of ASCIIQuarium](/imgs/fishies.gif)
 
 Thanks for reading!

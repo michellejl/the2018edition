@@ -1,6 +1,6 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css);
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700|Josefin+Slab:400,700");
-.site-header, .site-header .site-nav-items, .site-footer .site-footer-items, .post-list .post-item {
+.site-header, .site-header .site-nav-items, .site-footer .site-footer-items, .post-list .post-item, .prev-next-nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -56,6 +56,9 @@ svg.icon {
   @media screen and (min-width: 750px) {
     .article {
       padding: 3em; } }
+
+img {
+  width: 100%; }
 
 .site-header {
   background: #2d2d2d;
@@ -164,5 +167,15 @@ svg.icon {
           padding-right: 15px; }
         .post-list .post-item div {
           padding: 0; } }
+
+.meta .meta-category:not(:last-child)::after {
+  content: ', '; }
+
+.prev-next-nav {
+  border-top: 1px solid #a09f93;
+  margin: 10px 0;
+  padding: 10px 0; }
+  .prev-next-nav a {
+    max-width: 50%; }
 
 /*# sourceMappingURL=styles.css.map */

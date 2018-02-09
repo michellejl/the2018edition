@@ -2,8 +2,8 @@
 title: "Women Who Code"
 date: 2017-03-10T12:17:59-08:00
 Description: "Today I wanted to write a little bit about a meetup group called Women Who Code that I have been involved with since the summer of 2015. This is mostly a THANK YOU! to them for everything they do."
-Tags: []
-Categories: []
+Tags: [Meetup, Women Who Code]
+Categories: [Article]
 featuredImg: "/imgs/wwc.jpeg"
 ---
 

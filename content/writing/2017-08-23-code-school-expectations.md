@@ -2,8 +2,8 @@
 title: "Code School Expectations"
 date: 2017-08-23T12:23:06-08:00
 Description: "If you were to base my levels of satisfaction or disappointment at the code school I attended purely on my expectations, you would come to the conclusion that it was absolutely terrible."
-Tags: []
-Categories: []
+Tags: [Review, Code School, Tech Academy]
+Categories: [Article]
 featuredImg: "/imgs/tech_academy.png"
 ---
 
