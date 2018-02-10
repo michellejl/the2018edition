@@ -19,7 +19,8 @@ body {
   font-family: $sans;
   color: $white;
   min-height: 100vh;
-  min-width: 100vw;
+  width: 100vw;
+  overflow-y: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
