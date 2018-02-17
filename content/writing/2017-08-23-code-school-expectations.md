@@ -1,12 +1,18 @@
 ---
-title: "Code School Expectations"
-date: 2017-08-23T12:23:06-08:00
-Description: "If you were to base my levels of satisfaction or disappointment at the code school I attended purely on my expectations, you would come to the conclusion that it was absolutely terrible."
-Tags: [Review, Code School, Tech Academy]
-Categories: [Article]
+title: Code School Expectations
+date: 2017-08-23 12:23:06 -0800
+Description: If you were to base my levels of satisfaction or disappointment at the
+  code school I attended purely on my expectations, you would come to the conclusion
+  that it was absolutely terrible.
+Tags:
+- Review
+- Code School
+- Tech Academy
+Categories:
+- Article
 featuredImg: "/imgs/tech_academy.png"
----
 
+---
 If you were to base my levels of satisfaction/disappointment at the code school I attended purely on my expectations, you would come to the conclusion that it was absolutely terrible. And yet I can still often be heard recommending it to many people. Just because my expectations were not met, doesn’t mean that it was a bad experience. In a world where results are what matters, the end result of going to code school exceeded my expectations in ways I didn’t even dare to imagine before attending.
 
 My path into technology was a little windy. After high school I went to college and declared a creative writing major with a minor in ancient Greek. After deciding that this was way too much reading even for me, (someone who averaged 5 novels read a week in high school) I decided to switch to art school and study graphic design. Somehow the admission officer convinced me to do the Web Design and Interactive Media major instead of graphic design and I ended up in my first computer class since middle school. Despite my fears that I wouldn’t be able to keep up the the programming aspect of the program (I have a deep fear of math and numbers), I ended up completely falling in love with the code. After deciding that art school wasn’t technical enough for me, and that I really didn’t like being told to do homework, I dropped out and started teaching myself to code. I didn’t have a community around me of other technical people, and I didn’t know where to find one. I was also having trouble uncovering what topics I actually needed to learn. When I eventually hit the wall of all I knew how to teach myself, I enrolled in a code school with high expectations of coming out as a programming ninja rockstar.

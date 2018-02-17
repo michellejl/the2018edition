@@ -1,13 +1,15 @@
 ---
-title: "Write/Speak/Code Wrap Up"
-date: 2017-08-26T13:47:57-08:00
-Description: "Summary of my experiences on the first day of the Write/Speak/Code conference."
-Tags: [Conference, Event Review]
-Categories: [Article]
+title: Write/Speak/Code Wrap Up
+date: 2017-08-26 13:47:57 -0800
+Description: Summary of my experiences on the first day of the Write/Speak/Code conference.
+Tags:
+- Conference
+- Event Review
+Categories:
+- Article
 featuredImg: "/imgs/wsc.png"
+
 ---
-
-
 Going into this conference I wasn't really sure what to expect, despite the name. I was not expecting it to be so much workshop. I was expecting it to be more similar to other conferences I have gone to where I move around a lot and get a bunch of lectures about all the cool things I can almost kind of follow along with and try not to forget about before I get a chance to try them.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Conferences that inspire me to do something are my favorite! 😍📝 <a href="https://twitter.com/hashtag/wsc2017conf?src=hash">#wsc2017conf</a> <a href="https://twitter.com/hashtag/blogging?src=hash">#blogging</a> <a href="https://twitter.com/hashtag/conference?src=hash">#conference</a> <a href="https://twitter.com/hashtag/womenintech?src=hash">#womenintech</a> <a href="https://twitter.com/hashtag/inspire?src=hash">#inspire</a></p>&mdash; Michelle J Levine (@MichelleJLevine) <a href="https://twitter.com/MichelleJLevine/status/900498330324656128">August 23, 2017</a></blockquote>

@@ -1,12 +1,17 @@
 ---
-title: "Women Who Code"
-date: 2017-03-10T12:17:59-08:00
-Description: "Today I wanted to write a little bit about a meetup group called Women Who Code that I have been involved with since the summer of 2015. This is mostly a THANK YOU! to them for everything they do."
-Tags: [Meetup, Women Who Code]
-Categories: [Article]
+title: Women Who Code
+date: 2017-03-10 12:17:59 -0800
+Description: Today I wanted to write a little bit about a meetup group called Women
+  Who Code that I have been involved with since the summer of 2015. This is mostly
+  a THANK YOU! to them for everything they do.
+Tags:
+- Meetup
+- Women Who Code
+Categories:
+- Article
 featuredImg: "/imgs/wwc.jpeg"
----
 
+---
 Today I wanted to write a little bit about a meetup group called [Women Who Code](https://www.womenwhocode.com/portland) that I have been involved with since the summer of 2015. This is mostly a giant 'THANK YOU!' to them for everything they do.
 
 Before I moved to Portland I was not a social person. I did just about everything I could to avoid being around people, especially if I would have to talk to them. 'Anti-social' would have been an understatement. I had friends, just not a whole lot and none that I really spent any time with. I hadn't spent a lot of time around friends since high school. I am painfully shy (unless I know you then I tend to be crazy). When I did have to go to places where there would be people, I would keep to myself and not say a single word the whole time.

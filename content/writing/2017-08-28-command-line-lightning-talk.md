@@ -1,12 +1,19 @@
 ---
-title: "Command Line Lightning Talk"
-date: 2017-08-28T14:01:55-08:00
-Description: "Last Week at Write/Speak/Code I wrote a lightning talk about Command Line Tricks in which I promised a follow up blog article going into more detail about setting up the customizations I talked about. Here it is."
-Tags: [Command Line, Talk, How To]
-Categories: [Article, Talk Information]
+title: Command Line Lightning Talk
+date: 2017-08-28 14:01:55 -0800
+Description: Last Week at Write/Speak/Code I wrote a lightning talk about Command
+  Line Tricks in which I promised a follow up blog article going into more detail
+  about setting up the customizations I talked about. Here it is.
+Tags:
+- Command Line
+- Talk
+- How To
+Categories:
+- Article
+- Talk Information
 featuredImg: "/imgs/dragon-friend.png"
----
 
+---
 **Note:** *Slides from this lightning talk and other talks I have written can be found on my [github](https://github.com/michellejl/Talk-Slides/).*
 
 ## My Setup:

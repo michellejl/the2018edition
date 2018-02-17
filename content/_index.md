@@ -1,9 +1,9 @@
 +++
+date = "2018-02-03T00:00:00Z"
 title = "Howdy"
-date = "2018-02-03"
 type = "index"
-+++
 
++++
 # Hi. My name is Michelle 
 
 Welcome to version 0.0.2 of my 2018 portfolio.
