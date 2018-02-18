@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> {{- if .IsHome }}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0"> {{- if .IsHome }}
   <title>{{ .Site.Title }}</title>
   <meta property="og:title" content="{{ .Site.Title }}" />
   <meta name="twitter:title" content="{{ .Site.Title | truncate 70 }}" /> {{- else }}
@@ -25,6 +25,4 @@
   <link href="{{ .RSSLink | relURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" /> {{- end }}
   <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}" media="all" />
   <link rel="stylesheet" href="{{ "css/syntax.css" | relURL }}" media="all" />
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-    crossorigin="anonymous"></script>
 </head>
