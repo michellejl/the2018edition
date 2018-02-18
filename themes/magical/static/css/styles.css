@@ -6,10 +6,12 @@
   justify-content: space-between;
   align-items: center; }
 
+.site-header .site-nav-items, .site-footer .site-footer-items, body {
+  margin: 0;
+  padding: 0; }
+
 .site-header .site-nav-items, .site-footer .site-footer-items {
-  list-style-type: none;
-  padding: 0;
-  margin: 0; }
+  list-style-type: none; }
 
 * {
   box-sizing: border-box;
@@ -25,8 +27,7 @@ body {
   font-family: "Josefin Sans", sans-serif;
   color: #f2f0ec;
   min-height: 100vh;
-  width: 100vw;
-  overflow-y: hidden; }
+  width: 100vw; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Josefin Slab", serif; }
