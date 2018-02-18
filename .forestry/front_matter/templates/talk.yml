@@ -1,4 +1,6 @@
 ---
+pages:
+- teaching/overcoming-fear-of-the-command-line-with-rainbows-and-dragons.md
 hide_body: false
 fields:
 - name: title
