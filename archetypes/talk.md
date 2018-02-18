@@ -4,6 +4,6 @@ date: {{ .Date }}
 Description: ""
 Tags: []
 Categories: []
-featuredImg: ""
+
 ---
 
