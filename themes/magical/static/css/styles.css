@@ -181,4 +181,10 @@ img {
   .prev-next-nav a {
     max-width: 50%; }
 
+.talk-slides,
+.talk-video {
+  width: 654px;
+  min-height: 420px;
+  max-width: 100%; }
+
 /*# sourceMappingURL=styles.css.map */
