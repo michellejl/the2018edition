@@ -1,5 +1,7 @@
 ---
 pages:
+- teaching/intro-to-git-and-github.md
+- teaching/introduction-to-git/github.md
 - teaching/overcoming-fear-of-the-command-line-with-rainbows-and-dragons.md
 hide_body: false
 fields:
