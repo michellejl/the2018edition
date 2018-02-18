@@ -1,12 +1,18 @@
 ---
-title: "Everything I Forgot About Images"
-date: 2017-02-24T11:45:30-08:00
-Description: "I went to a great talk this week where the speaker, Jessica Tate, reminded me about a lot of best practices for using image on the web that I seem to have forgotten about as of late."
-Tags: [Meetup, Speaker, Photography]
-Categories: [Article]
+title: Everything I Forgot About Images
+date: 2017-02-24 11:45:30 -0800
+Description: I went to a great talk this week where the speaker, Jessica Tate, reminded
+  me about a lot of best practices for using image on the web that I seem to have
+  forgotten about as of late.
+Tags:
+- Meetup
+- Speaker
+- Photography
+Categories:
+- Article
 featuredImg: "/imgs/images-for-web.jpg"
----
 
+---
 I went to a great talk this week where the speaker, [Jessica Tate](https://twitter.com/missjessicatate), reminded me about a lot of best practices for using image on the web that I seem to have forgotten about as of late. She took a subject I have always found boring and a little annoying and made it interesting and relevant. She was an engaging speaker.
 
 I know I studied all the things about images for both print and web when I attended art school, and for a while I was pretty good about always optimizing my images for web. But at some point, I seem to have just gotten bored of it and figured 'oh well” and ignored the whole subject. Side effect: I have a photography site that takes forever and a half to load because I am squishing images more than 5000px wide into little itty bitty 250px wide thumbnails. So I wanted to gather some of the things she went over in a blog post here to remind myself of the importance of optimizing images for web. Something to remind me the next time I decide to ignore it.
