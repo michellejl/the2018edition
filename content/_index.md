@@ -23,6 +23,9 @@ Using [forestry.io](https://forestry.io) as my CMS was crazy easy to set up, and
 ## Major Version: 0
 This phase is mostly full of poking things to see what works and getting used to using Hugo for site development. 
 
+### 0.1.1
+Got another good chunk done by building and styling out the portfolio section. Will be adding more projects using Forestry once the structure updates are live. (As soon as I merge this bit). I am getting close to thinking about a major version bump. I need to work a little on the list pages still, and get my technologies category thing working, but I am getting close to version 1.0.0! 
+
 ### 0.1.0 
 Made a nice jump when I got a CMS plugged in. Using forestry.io, which is providing me a CMS and is automating my deployment process. I am a little obsessed with how easy forestry actually is to set up. I originally planned to put the CMS and automation process off as long as possible because I expected it to be the most complicated part. Since I am most unfamiliar with deployment and devops things, it is the part that normally causes the most issues.
 
