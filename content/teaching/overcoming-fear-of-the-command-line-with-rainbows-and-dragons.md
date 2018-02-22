@@ -3,8 +3,9 @@ Categories = ["Lightning Talk"]
 Description = "During the Write/Speak/Code conference I attended in the summer of 2017, I wrote a lightning talk. During the November PDXNode Meetup I was able to present it."
 Tags = ["Terminal Customization", "Command Line"]
 date = "2017-11-19T20:20:07Z"
+featuredImg = "/imgs/command-line-talk.jpg"
 title = "Overcoming Fear of the Command Line with Rainbows and Dragons"
-featuredImg= "/imgs/command-line-talk.jpg"
+
 +++
 During the Write/Speak/Code conference I attended in the summer of 2017, I wrote a lightning talk. Below I have the updated slides, as well as a video recording from when I gave it at the PDXNode Meetup in November of 2017. 
 

@@ -2,7 +2,7 @@
 Categories = ["Workshop"]
 Description = "Slides created in preperation for the February 2018 edition of Women Who Code Portland's Open Source Study Night, where I led a group learning to use git and github. "
 Tags = ["Workshop", "GitHub", "Git"]
-date = "2018-02-22T16:19:14+00:00"
+date = "2018-02-22T16:19:14Z"
 draft = true
 title = "Intro to Git & GitHub"
 
