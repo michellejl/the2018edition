@@ -1,0 +1,46 @@
+
+{{ define "main" }}
+<article class="article main">
+  <h1>{{ .Title }}</h1>
+  <div class="meta">
+      <p>
+        <span class="meta-date">{{.Date.Format "2006-01-02"}}</span>
+      </p>
+  </div>
+
+  <img src="{{ .Params.featuredImg }}"  class="full-width" />
+
+  <p class="meta"><strong>Technologies / Languages used:</strong> 
+    {{ range .Params.technologies }} 
+      <span class="meta-category">
+        {{ . }}
+      </span>
+    {{ end }} 
+  </p>
+
+  {{ .Content }}
+
+  <div class="example-links">
+    {{ if (not (eq .Params.github "")) }}
+      <a class="btn-github btn" href="{{ .Params.github }}" target="_blank">Github</a>
+    {{ end }}
+
+    {{ if (not (eq .Params.codepen "")) }}
+      <a class="btn-codepen btn" href="{{ .Params.codepen }}" target="_blank">CodePen</a>
+    {{ end }}
+
+    {{ if (not (eq .Params.live "")) }}
+      <a class="btn-live btn" href="{{ .Params.live }}" target="_blank">Live</a>
+    {{ end }}
+  </div>
+
+  <div class="prev-next-nav">
+      {{ with .PrevInSection }}
+        <a class="previous" href="{{.Permalink}}">Previous</a>
+      {{ end }}
+      {{ with .NextInSection }}
+        <a class="next" href="{{.Permalink}}">Next</a>
+      {{ end }}
+  </div>
+</article>
+{{ end }}

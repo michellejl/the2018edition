@@ -8,10 +8,8 @@
       <div>
         <h2 class="post-title"><a href="{{.Permalink}}">{{.Title}}</a></h2>
         <p class="post-meta meta">{{.Date.Format "2006-01-02"}} | 
-          {{ range .Params.tags }} 
-            <span class="meta-category">
-              <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a>
-            </span>
+          {{ range .Params.technologies }} 
+            <span class="meta-category">{{ . }}</span>
           {{ end }} 
 
         </p>

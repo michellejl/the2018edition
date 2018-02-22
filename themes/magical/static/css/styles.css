@@ -62,6 +62,22 @@ svg.icon {
 img {
   width: 100%; }
 
+a {
+  text-decoration: none;
+  color: #6699cc; }
+  a:hover {
+    color: #cc99cc; }
+
+.btn {
+  display: inline-block;
+  border: 2px solid #6699cc;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px 5px 0 0;
+  text-align: center; }
+  .btn:hover {
+    border-color: #cc99cc; }
+
 .site-header {
   background: #2d2d2d;
   text-align: center;
