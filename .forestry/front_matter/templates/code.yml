@@ -1,4 +1,16 @@
 ---
+pages:
+- coding/udacity-portfolio.md
+- coding/sortable-gradebook.md
+- coding/random-quote-generator.md
+- coding/desk-svg-animation.md
+- coding/pixel-art-maker.md
+- coding/pig-latin-translator.md
+- coding/photo-album.md
+- coding/wikipedia-viewer.md
+- coding/javascript-game.md
+- coding/hippo-haus-security-hackathon.md
+- coding/tribute-page.md
 hide_body: false
 fields:
 - name: title
@@ -31,11 +43,15 @@ fields:
   type: list
   hidden: false
   default: []
-- name: featuredImg
-  label: Featuredimg
-  type: text
-  hidden: false
-  default: ''
+  config:
+    use_select: true
+    source:
+      type: datafiles
+      file: technologies-toml
+      path: technologies
+- type: file
+  name: featuredImg
+  label: Featured Image
 - name: github
   label: Github
   type: text

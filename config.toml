@@ -11,21 +11,6 @@ title = "Michelle JL"
 identifier = "resources"
 name = "Resources"
 url = "/resources/"
-weight = 5
-[[menu.footer]]
-identifier = "writing"
-name = "Writing"
-url = "/writing/"
-weight = 4
-[[menu.footer]]
-identifier = "teaching"
-name = "Teaching"
-url = "/teaching/"
-weight = 3
-[[menu.footer]]
-identifier = "coding"
-name = "Coding"
-url = "/coding/"
 weight = 2
 [[menu.footer]]
 identifier = "about"
@@ -44,7 +29,7 @@ url = "/writing/"
 weight = 4
 [[menu.main]]
 identifier = "teaching"
-name = "Teaching"
+name = "Speaking"
 url = "/teaching/"
 weight = 3
 [[menu.main]]

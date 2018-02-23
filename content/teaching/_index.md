@@ -4,9 +4,10 @@ title = "Teaching"
 
 +++
 ## Upcomming Talks / Workshops:
-- **Tuesday, Feb 27, 2018: The Story of Me**<br />I will be presenting my first speech since joining the Toastmasters. This is my second official meeting with them, so I am really trying to jump in.
 
-- **(Rescheduled for Snow): Intro to Git & GitHub**<br />On Thursday I am leading a workshop on introduction to git and github at the Women Who Code Portland Open Source Study Night. 
+- **Tuesday, July 17, 2018: CSS Grid Workshop**<br />I will be leading a 1 hour version of my CSS Grid workshop for the Front End PDX's July meetup event. 
+
+- **(Rescheduled for Snow): Intro to Git & GitHub**<br />I am leading a workshop on introduction to git and github at the Women Who Code Portland Open Source Study Night. 
 
 - **no date: Atomic Design and Pattern Lab**<br />Hopefully leading a workshop on one of my new favorite subjects in Front End Development in March at another Women Who Code Portland Event. Will update with better details when I have them.
 

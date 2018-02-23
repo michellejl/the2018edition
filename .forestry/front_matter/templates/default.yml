@@ -1,4 +1,7 @@
 ---
+pages:
+- now.md
+- writing/1ish-years-with-women-who-code-portland.md
 hide_body: false
 fields:
 - name: title
