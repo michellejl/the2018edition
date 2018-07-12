@@ -18,4 +18,4 @@ I started attending meetups and meeting my coding community in Portland during t
 
 <p class="p-fancy"><strong>Women Who Code Portland</strong> - I was brought on to the leadership team towards the end of 2016 officially. I spent the first several months helping at Networking Nights, and filling in as needed for other events. In 2018 I am stepping into a more regular role as the co-lead for the Open Source Study Nights that are held once a month. I will also be creating a set of four CSS based workshops that I will lead this year. </p>
 
-<p class="p-fancy"<strong>West Beaverton Toastmasters</strong> - I joined Toastmasters in February of 2018. Starting on July 1, 2018 I took over as VP of Education for the West Beaverton club.
+<p class="p-fancy"><strong>West Beaverton Toastmasters</strong> - I joined Toastmasters in February of 2018. Starting on July 1, 2018 I took over as VP of Education for the West Beaverton club.
