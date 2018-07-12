@@ -6,43 +6,16 @@ type = "index"
 +++
 # Hi. My name is Michelle
 
-Welcome to version 0.1.2 of my 2018 portfolio.
+### Hello World!
 
-## Thoughts
+I’m Michelle, a creative front end developer currently working as a contractor at Nike. Nothing excites me more than immersing myself in a good challenge or a great book. For me, coding is the perfect mix of logical problem solving, and creative artistic expression. When not coding, I am spending my time creating something new, getting involved in the local tech community, or exploring the world around me with my trusty Nikon camera.
 
-I've created way too many versions of my portfolio since I bought my first url in 2011, and none of them have lived more than maybe 8 months top. I've spent pretty much all of January thinking about what went wrong with all the past attempts. I spent time poking at different options before landing here. I spent a lot of January writing and then throwing out code as I tried out different things and decided they didn't work the way I wanted.
+### Community Involvement
 
-This is still a very early version, but hopefully one that I can expand on.
+I started attending meetups and meeting my coding community in Portland during the summer of 2015. I now volunteer with and organize meetups for PDXNode and Women Who Code Portland. I have spent time volunteering at other various meetups and always make sure to help out a new developer where I can.
 
-Once I settled on using a static site generator, [Hugo](http://gohugo.io/) found it's way to the top spot mostly because it doesn't default to a blog setting like many of the other static site generators. Hugo gives more flexibility in how you want to build the site. That same flexibility that drew me to Hugo has been making development slower.
+<p class="p-fancy"><strong>PDXNode</strong> - I joined the organizing team for this meetup in the first half of 2017. I help with organizing our two regular monthly events: a presentation night and a hack night. I also help out with community engagement via twitter, and have been reaching out to gather sponsors.</p>
 
-Using [forestry.io](https://forestry.io) as my CMS was crazy easy to set up, and that ease is more than making up for some of my struggles with Hugo. Forestry is managing my automation for me, by added webhooks to my git repo that allows me to create and publish a new build for my site simply by pushing to master!
+<p class="p-fancy"><strong>Women Who Code Portland</strong> - I was brought on to the leadership team towards the end of 2016 officially. I spent the first several months helping at Networking Nights, and filling in as needed for other events. In 2018 I am stepping into a more regular role as the co-lead for the Open Source Study Nights that are held once a month. I will also be creating a set of four CSS based workshops that I will lead this year. </p>
 
-<hr />
-
-# Versions
-
-## Major Version: 0
-
-This phase is mostly full of poking things to see what works and getting used to using Hugo for site development.
-
-### 0.1.2
-Working on adding new pages and continuing to add content. Much of this content was focused on the portfolio (coding) section.
-
-### 0.1.1
-
-Got another good chunk done by building and styling out the portfolio section. Will be adding more projects using Forestry once the structure updates are live. (As soon as I merge this bit). I am getting close to thinking about a major version bump. I need to work a little on the list pages still, and get my technologies category thing working, but I am getting close to version 1.0.0!
-
-### 0.1.0
-
-Made a nice jump when I got a CMS plugged in. Using forestry.io, which is providing me a CMS and is automating my deployment process. I am a little obsessed with how easy forestry actually is to set up. I originally planned to put the CMS and automation process off as long as possible because I expected it to be the most complicated part. Since I am most unfamiliar with deployment and devops things, it is the part that normally causes the most issues.
-
-I also used [Lighthouse](https://developers.google.com/web/tools/lighthouse/) in Chrome Dev Tools to run an audit on my site and made several smaller updates to improve my scores.
-
-### 0.0.2
-
-In this version I was mostly focused on the blog section. I wanted to get a blog list and individual posts set up. This version was worked on mostly using vim, as I was trying to learn how to use it better, (and vs code keeps crashing on my chromebook (linux side)).
-
-### 0.0.1
-
-Barely functional early draft. Site has basic mostly static pages. Some level of design has been implemented, and empty placeholder pages exist.
+<p class="p-fancy"<strong>West Beaverton Toastmasters</strong> - I joined Toastmasters in February of 2018. Starting on July 1, 2018 I took over as VP of Education for the West Beaverton club.
