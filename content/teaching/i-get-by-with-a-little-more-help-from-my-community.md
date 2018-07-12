@@ -2,7 +2,7 @@
 Categories = []
 Description = "In this short talk I shared my journey into the tech community and other local groups, the struggles I faced, and how that same community helped me to overcome those challenges."
 Tags = []
-date = "2018-07-12T11:06:54-07:00"
+date = "2018-07-10T11:06:54-07:00"
 featuredImg = ""
 title = "I Get By With A Little (more) Help From My Community"
 
