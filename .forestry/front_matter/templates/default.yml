@@ -1,8 +1,7 @@
 ---
-pages:
-- now.md
-- writing/1ish-years-with-women-who-code-portland.md
+label: default
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -39,3 +38,6 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- content/now.md
+- content/writing/1ish-years-with-women-who-code-portland.md

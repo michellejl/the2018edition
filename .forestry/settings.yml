@@ -1,10 +1,27 @@
 ---
-upload_path: "/static/imgs"
-frontmatter_file_url_template: "/imgs/"
-body_file_url_template: "/uploads/:year:/:month:/:day:"
 new_page_extension: md
 auto_deploy: true
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- path: content/coding
+  label: Coding
+  create: all
+- path: content
+  label: Pages
+  create: all
+- path: content/resources
+  label: Resources
+  create: all
+- path: content/teaching
+  label: Teaching
+  create: all
+- path: content/writing
+  label: Writing
+  create: all
+upload_dir: static/imgs
+public_path: "/uploads"
+front_matter_path: "/imgs"
+use_front_matter_path: true
+file_template: ":filename:"
 version: 0.31.1

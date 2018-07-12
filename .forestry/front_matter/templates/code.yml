@@ -1,17 +1,7 @@
 ---
-pages:
-- coding/udacity-portfolio.md
-- coding/sortable-gradebook.md
-- coding/random-quote-generator.md
-- coding/desk-svg-animation.md
-- coding/pixel-art-maker.md
-- coding/pig-latin-translator.md
-- coding/photo-album.md
-- coding/wikipedia-viewer.md
-- coding/javascript-game.md
-- coding/hippo-haus-security-hackathon.md
-- coding/tribute-page.md
+label: code
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -67,3 +57,15 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- content/coding/pixel-art-maker.md
+- content/coding/wikipedia-viewer.md
+- content/coding/hippo-haus-security-hackathon.md
+- content/coding/random-quote-generator.md
+- content/coding/desk-svg-animation.md
+- content/coding/sortable-gradebook.md
+- content/coding/udacity-portfolio.md
+- content/coding/javascript-game.md
+- content/coding/pig-latin-translator.md
+- content/coding/photo-album.md
+- content/coding/tribute-page.md
