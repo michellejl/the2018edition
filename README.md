@@ -13,6 +13,11 @@ Once I settled on using a static site generator, [Hugo](http://gohugo.io/) found
 Using [forestry.io](https://forestry.io) as my CMS was crazy easy to set up, and that ease is more than making up for some of my struggles with Hugo. Forestry is managing my automation for me, by added webhooks to my git repo that allows me to create and publish a new build for my site simply by pushing to master!
 
 # Build / Deployment Notes
+
+Install Hugo (mac with homebrew): 
+```
+brew install hugo
+```
 Running project locally for localdev:
 ```
  hugo server --watch --verbose --disableFastRender
@@ -22,4 +27,4 @@ Build out static files for uploading:
 ``` 
 hugo
 ```
-- or - forestry.io is currently set up as my CMS and has some fancy webhooks set up now. Pushing to master branch will trigger a new build/deployment.
+- or - forestry.io is currently set up as my CMS and has some fancy webhooks set up now. Pushing to forestry branch will trigger a new build/deployment.
