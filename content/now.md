@@ -2,7 +2,7 @@
 Categories = []
 Description = ""
 Tags = ["Projects", "Learning", "Now"]
-date = "2018-03-24T17:24:04+00:00"
+date = "2018-07-12T17:24:04+00:00"
 featuredImg = ""
 title = "Now"
 [menu.footer]
@@ -11,7 +11,25 @@ weight = 3
 +++
 This page is based on [the now movement](https://sivers.org/nowff). Basically, this is a place to keep track a little bit of some of the things I am doing currently. In case anyone else is curious or something.
 
-_Last Updated: March 24, 2018_
+_Last Updated: July 12, 2018_
+
+## Work Things
+
+* **Where:** Contracting at Nike
+* **Job Title:** Application Engineer
+* **What:** I've recently moved to a different team where I work as a prototyper. 
+* **Learning:** Been learning more about design systems. Also continuing to learn more React (as well as storybook).
+
+## Projects Outside of Work:
+
+1. Continuing to learn more about CSS Grid. I've given two Flexbox and Grid workshops this week, and I have a few more planned for next week. I've also started looking into CSS Shapes
+2. Been really pushing to give more talks. Have done several this summer and have more planed. I really want to get a conference talk accepted.
+3. I've stepped up quite a bit as an organizer for PDXNode, taking lead on two major events in July. I've set up a presentation night as part of OSCON, and planning a NodeBots Day for the end of the month. 
+4. Continuing the wedding planning thing. 
+
+<hr />
+
+March 24, 2018
 
 ## Work Things
 

@@ -31,4 +31,8 @@ fields:
 pages:
 - content/teaching/intro-to-git-and-github.md
 - content/teaching/overcoming-fear-of-the-command-line-with-rainbows-and-dragons.md
+- content/teaching/i-get-by-with-a-little-help-from-my-community.md
+- content/teaching/modern-layouts.md
+- content/teaching/i-get-by-with-a-little-more-help-from-my-community.md
+- content/teaching/modern-layouts-getting-started-in-flexbox-and-css-grid.md
 - content/teaching/introduction-to-git/github.md
