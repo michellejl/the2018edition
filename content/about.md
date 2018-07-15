@@ -14,4 +14,15 @@ I started attending meetups and meeting my coding community in Portland during t
 
 <p class="p-fancy"><strong>PDXNode</strong> - I joined the organizing team for this meetup in the first half of 2017. I help with organizing our two regular monthly events: a presentation night and a hack night. I also help out with community engagement via twitter, and have been reaching out to gather sponsors.</p>
 
-<p class="p-fancy"><strong>Women Who Code Portland</strong> - I was brought on to the leadership team towards the end of 2016 officially. I spent the first several months helping at Networking Nights, and filling in as needed for other events. In 2018 I am steping into a more regular role as the co-lead for the Open Source Study Nights that are held once a month. I will also be creating a set of four CSS based workshops that I will lead this year. </p>
+<p class="p-fancy"><strong>Women Who Code Portland</strong> - I was brought on to the leadership team towards the end of 2016 officially. I spent the first several months helping at Networking Nights, and filling in as needed for other events. In 2018 I am stepping into a more regular role as the co-lead for the Open Source Study Nights that are held once a month. I will also be creating a set of four CSS based workshops that I will lead this year. </p>
+
+<p class="p-fancy"><strong>West Beaverton Toastmasters</strong> - I joined Toastmasters in February of 2018. Starting on July 1, 2018 I took over as VP of Education for the West Beaverton club.
+
+### Find me in other places
+
+[LinkedIn](https://www.linkedin.com/in/michellejl)  
+[GitHub](http://github.com/michellejl)  
+[Instagram](https://www.instagram.com/spacecadetmj/)  
+[Twitter](https://twitter.com/MichelleJLevine)  
+[Slides](https://slides.com/michellejl)  
+[CodePen](https://codepen.io/michellejl/)
